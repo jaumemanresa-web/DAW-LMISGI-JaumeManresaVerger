@@ -1,0 +1,50 @@
+{
+  "enquestes": [
+    {
+      "id": 1,
+      "titol": "Satisfacció amb la botiga",
+      "activa": true,
+      "preguntes": [
+        {
+          "ordre": 1,
+          "text": "Com valores l'atenció rebuda?",
+          "tipus": "opcio_multiple",
+          "opcions": [
+            "Excel·lent",
+            "Bona",
+            "Regular",
+            "Dolenta"
+          ]
+        },
+        {
+          "ordre": 2,
+          "text": "Què milloraries del servei?",
+          "tipus": "text_lliure"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titol": "Preferències de videojocs",
+      "activa": true,
+      "preguntes": [
+        {
+          "ordre": 1,
+          "text": "Quin tipus de videojoc prefereixes?",
+          "tipus": "opcio_multiple",
+          "opcions": [
+            "Acció",
+            "Esports",
+            "Aventura",
+            "Estratègia"
+          ]
+        },
+        {
+          "ordre": 2,
+          "text": "Quin és el teu videojoc preferit?",
+          "tipus": "text_lliure"
+        }
+      ]
+    }
+  ]
+}
