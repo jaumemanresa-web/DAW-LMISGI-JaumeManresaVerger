@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modul>
+
+    <nom>Llenguatges de Marques i Sistemes de Gestió d'Informació</nom>
+    <cicle>ASIX</cicle>
+    <hores_setmanals>4</hores_setmanals>
+    <obligatori>true</obligatori>
+    <data_inici>2023-09-25</data_inici>
+    <data_fi>2024-06-30</data_fi>
+
+    <alumnes>
+
+        <alumne nif="12345678A">
+            <nom>Carles</nom>
+            <cognoms>Canals Gozálvez</cognoms>
+            <telefon>971000000</telefon>
+            <email>cgc@paucasesnovescifp.cat</email>
+
+            <adreca>
+                <carrer>C/ Sense Nom, 1</carrer>
+                <localitat>Inca</localitat>
+                <codi_postal>07300</codi_postal>
+            </adreca>
+
+            <faltes_assistencia>10</faltes_assistencia>
+            <nota>no apte</nota>
+        </alumne>
+
+        <alumne nif="87654321Z">
+            <nom>Joana</nom>
+            <cognoms>Quetglas Caimari</cognoms>
+            <telefon>971123456</telefon>
+            <email>qcj@paucasesnovescifp.cat</email>
+
+            <adreca>
+                <carrer>C/ Sense sortida, 3</carrer>
+                <localitat>Sóller</localitat>
+                <codi_postal>07100</codi_postal>
+            </adreca>
+
+            <faltes_assistencia>0</faltes_assistencia>
+            <nota>apte</nota>
+        </alumne>
+
+    </alumnes>
+
+</modul>
